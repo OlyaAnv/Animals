@@ -11,3 +11,14 @@
 <img>
 
 </p>
+
+## stack:
+<li>
+recyclerView
+</li>
+<li>
+nested recyclerView
+</li>
+<li>
+viewBinding
+</li>
