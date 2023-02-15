@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnimalsRV</string>
+    <string name="fish">fish</string>
+    <string name="birds">birds</string>
+    <string name="insects">insects</string>
+    <string name="dragonflies">dragonflies</string>
+    <string name="frogs">frogs</string>
+    <string name="reptiles">reptiles</string>
+    <string name="info">Photo by <a href="https://unsplash.com/@davidclode">David Clode</a> on <a href="https://unsplash.com">Unsplash</a></string>
+    <string name="image">image</string>
+    <string name="about">Приложение демонстрирует реализацию вложенных прокручивающихся списков (nested recyclerView). Представлено шесть категорий животных, в каждой категории по три фотографии.</string>
+</resources>
