@@ -9,5 +9,5 @@
 <img>
 <img>
 <img>
-<img src="https://user-images.githubusercontent.com/87568573/219111295-d4f15229-667c-4600-9136-55865dd2ac61.jpg" width="200">
+
 </p>
