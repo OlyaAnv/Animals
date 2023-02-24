@@ -22,3 +22,6 @@ nested recyclerView
 <li>
 viewBinding
 </li>
+<li>
+clickable link to a web page
+</li>
