@@ -1,4 +1,4 @@
-# Animals /Вложенные списки с фотографиями животных
+# Animals
 <p>В приложении реализованы вложенные RecyclerView. В прокручивающемся списке шесть категорий животных, каждую категорию можно листать горизонтально, там будет по три фотографии.
 </p>
 <p>The application demonstrates the implementation of nested scrollable lists (nested RecyclerView). There are six categories of animals, each category has three photos.
